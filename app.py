@@ -34,8 +34,8 @@ def show_messages(text):
 # print("preauthetification")
 
 # if authentication_status:
-print("authentificated")
-authenticator.logout('Logout', 'main')
+# print("authentificated")
+# authenticator.logout('Logout', 'main')
 st.title("BERT Q/A")
 st.write("教程[link](https://www.youtube.com/watch?v=scJsty_DR3o")
 st.write("BERT模型[link](https://huggingface.co/deepset/bert-base-cased-squad2")
